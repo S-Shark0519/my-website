@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>自分の趣味紹介</title>
+    <link rel="stylesheet" href="styles/styles.css">
+  </head>
+
+  <body>
+    <h1>sharkの趣味紹介</h1>
+    <div>
+      <h2>音楽を聴くこと</h2>
+      <p>私は暇な時間があればよく音楽を聴いています。</p>
+      <p>特に好きなアーティストはMrs. GREEN APPLEです。</p>
+    </div>
+    <div>
+      <a href="https://mrsgreenapple.com/">Mrs. GREEN APPLEの公式ホームページ</a>
+    </div>
+    <div>
+      <h2>ミセスのオススメ曲紹介</h2>
+      <p>私が特に好きなミセスの曲一覧です。ぜひ聴いてみてね!</p>
+    </div>
+    <div>
+      <a href="https://www.youtube.com/watch?v=Jy-QS27q7lA">ケセラセラ</a>
+
+      <a href="https://www.youtube.com/watch?v=ZP3GFkEE93A">ブルーアンビエンス</a>
+
+      <a href="https://www.youtube.com/watch?v=WNcNOaUWRaU"私は最強</a>
+
+      <img src="img/いらすとや.png" alt="プログラミングをする男性">
+    </div>
+  </body>
+</html>
